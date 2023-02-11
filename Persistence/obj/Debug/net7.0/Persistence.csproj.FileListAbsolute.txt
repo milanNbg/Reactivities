@@ -1,0 +1,15 @@
+C:\Vezba\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+C:\Vezba\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+C:\Vezba\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+C:\Vezba\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+C:\Vezba\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+C:\Vezba\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll

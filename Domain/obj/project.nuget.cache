@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lOszA1vs2KWG0vyntILqFdlPQ3V76+lkEBv0N1VUJ53guFyHkZjt8AfEvDCHqL+zd26ghIVS5xn2cALiwCMI+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Vezba\\Reactivities\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://cinproget01.cinci.paycor.com/nuget/NugetV2/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
