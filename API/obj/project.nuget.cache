@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tkwssI1eoVGwud7RAWfyEPglFtPtL9I/S3X/YaBVBUEUiFrkqdPWlJKQhsjXpDV9bc90Dxzf5K+hjGXsnG7sA==",
+  "dgSpecHash": "TM1oOSuZWNJHLKWn6OIqURoGcSQVfHtD8efrvbmf7RJhJIjnAghIY2h/vCClKBLXtFHRLfDKIk6onkiT4jCjgA==",
   "success": true,
-  "projectFilePath": "C:\\Vezba\\Reactivities\\api\\API.csproj",
+  "projectFilePath": "C:\\Vezba\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mil071122\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\mil071122\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Vezba\\Reactivities\\api\\API.csproj": {}
+    "C:\\Vezba\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Vezba\\Reactivities\\api\\API.csproj": {
+    "C:\\Vezba\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Vezba\\Reactivities\\api\\API.csproj",
+        "projectUniqueName": "C:\\Vezba\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Vezba\\Reactivities\\api\\API.csproj",
+        "projectPath": "C:\\Vezba\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\mil071122\\.nuget\\packages\\",
-        "outputPath": "C:\\Vezba\\Reactivities\\api\\obj\\",
+        "outputPath": "C:\\Vezba\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
